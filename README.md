@@ -1,12 +1,18 @@
 # HandyMan
 *NOT FOR COMMERCIAL PURPOSE* .
-This is Wordpress Project like Urban Claps.
-Tools Used  Wordpress, XAMPP Mysql Database.
-For Sample purpose 24 Services Categories are Added And 10 Main Categories , 
-2 Services Providers are added (1 in Computer Services) , 
-1 Custom Job is Posted by Customer and So On.
 
-Screenshots 
+A minor project built on WordPress, inspired by platforms like UrbanClap, showcasing a functional service provider website tailored for demonstration purposes.<br>
+
+
+Key features include:<br>
+• Comprehensive Services: Offers 24 service options organized under 10 main categories to cater to diverse customer needs.<br>
+• Service Provider Profiles: Demonstrates features with 2 active providers, including specialized options in Computer Services.<br>
+• Custom Job Requests: Enables customers to post personalized job requirements, ensuring tailored solutions.<br>
+• Robust Backend: Integrated with XAMPP and MySQL database for efficient data storage and management.<br>
+
+This project exemplifies the flexibility and capability of WordPress for developing user-centric service platforms with essential marketplace functionalities.<br>
+
+## Screenshots 
 
 ![1](https://github.com/arihantjain-aj/HandyMan/assets/121403074/3dd00988-5588-423c-a59a-8e7ebcd6be22)
 
